@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BisectionAlgorithm", "BisectionAlgorithm\BisectionAlgorithm.csproj", "{B8E5B877-1691-45F9-8C02-305E106064A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessMyNumberHumanPlays", "GuessMyNumberHumanPlays\GuessMyNumberHumanPlays.csproj", "{B1C284D4-0A45-4042-80E3-1FED9FAFA215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessMyNumberComputerPlays", "GuessMyNumberComputerPlays\GuessMyNumberComputerPlays.csproj", "{8C023DC9-CBB3-49F7-B5B3-E33236D95F8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B8E5B877-1691-45F9-8C02-305E106064A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8E5B877-1691-45F9-8C02-305E106064A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8E5B877-1691-45F9-8C02-305E106064A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C284D4-0A45-4042-80E3-1FED9FAFA215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C284D4-0A45-4042-80E3-1FED9FAFA215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C284D4-0A45-4042-80E3-1FED9FAFA215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C284D4-0A45-4042-80E3-1FED9FAFA215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C023DC9-CBB3-49F7-B5B3-E33236D95F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C023DC9-CBB3-49F7-B5B3-E33236D95F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C023DC9-CBB3-49F7-B5B3-E33236D95F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C023DC9-CBB3-49F7-B5B3-E33236D95F8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

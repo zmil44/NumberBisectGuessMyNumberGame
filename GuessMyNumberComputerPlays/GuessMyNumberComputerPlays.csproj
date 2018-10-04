@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B8E5B877-1691-45F9-8C02-305E106064A9}</ProjectGuid>
+    <ProjectGuid>{8C023DC9-CBB3-49F7-B5B3-E33236D95F8D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BisectionAlgorithm</RootNamespace>
-    <AssemblyName>BisectionAlgorithm</AssemblyName>
+    <RootNamespace>GuessMyNumberComputerPlays</RootNamespace>
+    <AssemblyName>GuessMyNumberComputerPlays</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BisectionAlgorithm.cs" />
+    <Compile Include="GuessMyNumberComputerPlays.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
